@@ -1,0 +1,7 @@
+13.11.2022 03:24:49 файл A:\TestWork\FolderXML\animals.xml был создан
+13.11.2022 03:26:08 файл A:\TestWork\FolderXML\animals.xml был Файл успешно записан
+13.11.2022 03:26:10 файл A:\TestWork\FolderXML\animals.xml был изменен
+13.11.2022 03:26:13 файл A:\TestWork\FolderXML\animals.xml был изменен
+13.11.2022 03:28:55 файл A:\TestWork\FolderXML\animals.xml был переименован в A:\TestWork\FolderXML\animals1.xml
+13.11.2022 03:28:56 файл A:\TestWork\FolderXML\animals.xml был создан
+
