@@ -29,7 +29,7 @@ namespace FileWatcherXMLService
             watcher.EnableRaisingEvents = true;
             while (enabled)
             {
-                Thread.Sleep(100);
+                Thread.Sleep(200);
             }
         }
         /// <summary>
